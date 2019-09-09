@@ -1,1 +1,1 @@
-# cool-cities
+# Amsterdam-is-cool
